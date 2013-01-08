@@ -8,7 +8,7 @@ It uses HTML 5 Canvas, jQuery, jQuery UI AutoComplete. I was inspired by Ask KEN
 AskEniz is basically a textual search box and the matching entires from Data.js are visualized as a donut chart.
 
 I used a simple JSON Array Data:
-
+<pre>
 Data =[ 
 {
     Id: "Sakarya",
@@ -41,3 +41,4 @@ Data =[
         ]
 }
 ]
+</pre>
